@@ -25,6 +25,66 @@ BEIN_SPORTS :- https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8
 Gazi tv :- https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 Sk sports  :- http://46.29.169.15:4001/play/a00e/index.m3u8
 ALjazeera ;- https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+B4u : - http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+Box cinema(low) :- https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_288p/index.m3u8
+Box cinema(medium) :- https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_360p/index.m3u8
+Box cinema(high) :- https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_360p/index.m3u8
+Filmy(low) :- https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_288p/index.m3u8
+Filmy(medium) :- https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_360p/index.m3u8
+Filmy(high) :- https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in_480p/index.m3u8
+Firangi(low) :- https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_288p/index.m3u8
+Firangi(medium) :- https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_360p/index.m3u8
+Firangi (high) :- https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in_480p/index.m3u8
+Moview plus (low) :- https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_288p/index.m3u8
+Moview plus (medium) :- https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_360p/index.m3u8
+Moview plus (high) :- https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
+Shemaroo TV (Low):-https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_240p/index.m3u8 
+Shemaroo TV (Medium):- https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_360p/index.m3u8
+Shemaroo TV (HQ):- https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in_480p/index.m3u8
+
+
+Tamil
+
+SOORYAN TV :- http://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+Santhora TV  :- http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+EE TV Tamil :- https://eu.streamjo.com/eetlive/eettv.m3u8
+GTA Tamil :- http://142.44.213.115:8888/gta_tamil/index.m3u8
+Makkal TV HQ :- https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+Blessing TV HQ :- http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+Madha TV HQ :- http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+News18 Tamil Low :- https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_3_av-p.m3u8
+News18 Tamil Medium :- https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8
+News18 Tamil HQ :- https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+Thathi TV Low :- https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live3/chunks.m3u8
+Thathi TV Medium :- https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+Thathi TV HQ :- https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
+Bangali
+
+Star Bangla HD :- http://45.127.244.7:8080/hls/channel12.m3u8
+Zee Bangla Cinema :- http://45.127.244.7:8080/hls/channel11.m3u8 
+Zee Bangla :- http://45.127.244.7:8080/hls/channel10.m3u8 
+Jonakk :- https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+ETV :- http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8 
+DBC News :- http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8 
+Channel I :- http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+Jamuna TV :- http://103.159.4.38:5868/BD-BANGLA-4/tracks-v1a1/mono.m3u8
+ATN Bangla :- http://103.159.4.38:5868/BD-BANGLA-6/tracks-v1a1/mono.m3u8 
+Ekattor TV:- http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+ABP Ananda Low :- https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_136.m3u8 
+ABP Ananda Medium :- https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_364.m3u8
+ABP Ananda Low :- https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
+BanglaTime HQ :- https://rtmp.smartstream.video/banglatime/banglatime/chunklist_w263286365.m3u8
+Calcutta News Low :- https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_12.m3u8
+Calcutta News Medium :- https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_13.m3u8
+Calcutta News HQ :- https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
+News18 Bangla Low :- https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_3_av-b.m3u8
+News18 Bangla Medium :- https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-b.m3u8
+News18 Bangla HQ :- https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-b.m3u8
+Rplus News Medium :- https://cdn.smartstream.video/smartstream-us/rplus/rplus/chunklist_w1780771726.m3u8
+
+
+
 
 Argentina
 
