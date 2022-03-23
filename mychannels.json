@@ -1,0 +1,215 @@
+{
+  "livetv":[
+    {
+      "name":"NDTV",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
+    },
+    {
+      "name":"ndtv24/7",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"
+    }, {
+      "name":"sony Tv",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET"
+    }, {
+      "name":"Sony Six",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+    }, {
+      "name":"Sony ten 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+    }, {
+      "name":"Sonty ten 2",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8"
+    }, {
+      "name":"AajTak",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://feeds.intoday.in/aajtak/api/master.m3u8"
+    }, {
+      "name":"ABP",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8"
+    }, {
+      "name":"cnbc",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8"
+    }, {
+      "name":"news 24",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8"
+    }, {
+      "name":"sony pix",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD"
+    }, {
+      "name":"sony max",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?HjFreeTV=MAXHD"
+    }, {
+      "name":"ads sports 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+    }, {
+      "name":"ads spoerts 3 - M",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8"
+    }, {
+      "name":"ads sports 3 - L",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8"
+    }, {
+      "name":"ads sports 3 - H",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8"
+    }, {
+      "name":"bein extra",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://siloh-ns1.plutotv.net/lilo/production/bein/master_5.m3u8"
+    }, {
+      "name":"siyatha tv",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8"
+    }, {
+      "name":"dd sports",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.m3u8"
+    }, {
+      "name":"geo super",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/index.m3u8"
+    }, {
+      "name":"Star sports 2",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://103.166.253.222:80/hls/starsports2.m3u8 "
+    }, {
+      "name":"Star sports 2",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8"
+    }, {
+      "name":"Tsports",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://103.166.253.222:80/hls/t-sports.m3u8"
+    }, {
+      "name":"Claro Sports HD",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://200.6.227.230:8000/play/a04b/index.m3u8"
+    },
+    {
+      "name":"RMC sports 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://31.14.41.252:8000/play/a00e/index.m3u8"
+    }, {
+      "name":"RMC sports 2",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://31.14.41.252:8000/play/a011/index.m3u8"
+    }, {
+      "name":"AMAZON PRIME",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://31.14.41.252:8000/play/a012/index.m3u8"
+    },{
+      "name":"SONY SIX",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://103.166.253.222:80/hls/sonysix.m3u8"
+    },{
+      "name":"Star Sports 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://live.flixhub.net/hls/stersports1hd.m3u8"
+    },{
+      "name":"Star Sports 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://103.166.253.222:80/hls/stersports1hd.m3u8"
+    },{
+      "name":"Cricket link",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://rcpems02.jio.ril.com/live.kube.cdn.ril.com/bpk-tv/TEST3_HD_MOB/output01/TEST3_HD_MOB-audio_179634_eng=179600-video=250000.m3u8"
+    },{
+      "name":"BT sports 3",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://16live00.akamaized.net/BTSPORTS3/index.m3u8"
+    },{
+      "name":"BT sports 1",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://16live00.akamaized.net/BTSPORTS1/index.m3u8"
+    },{
+      "name":"BT sports 2",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://16live00.akamaized.net/BTSPORTS2/index.m3u8"
+    },{
+      "name":"BEIN_SPORTS",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8"
+    },{
+      "name":"Gazi tv",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8"
+    },{
+      "name":"Sk sports",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://46.29.169.15:4001/play/a00e/index.m3u8"
+    },{
+      "name":"BBC afghan",
+      "country":"afghan",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"http://iptv.arianaafgtv.com/ariana/playlist.m3u8"
+    },{
+      "name":"Ariana TV National",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/8VbuI9n.png",
+      "channellink":"https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8"
+    },{
+      "name":"Ariana TV US (720p) [Not 24/7]",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/8VbuI9n.png",
+      "channellink":"https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8"
+    },{
+        "name":"ATN News (720p) [Not 24/7]",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/x8mlbJM.jpg",
+      "channellink":"https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
+    },{
+      "name":"Bahar TV (720p) [Not 24/7]",
+      "country":"afghan",
+      "channelthumb":"https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png",
+      "channellink":"https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+    },{
+      "name":"Barya TV (720p) [Not 24/7]",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/yf5cI8r.jpg ",
+      "channellink":"http://51.210.199.56/hls/stream.m3u8"
+    },{
+      "name":"Bahar TV (720p) [Not 24/7]",
+      "country":"afghan",
+      "channelthumb":"https://www.javatpoint.com/images/logo/javahome.png",
+      "channellink":"https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+    },{
+      "name":"BBCWorldNews.uk",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/Nx0BRdV.png",
+      "channellink":"http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+    },{
+      "name":"BloombergTVAsia.us",
+      "country":"afghan",
+      "channelthumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/300px-Bloomberg_Television_logo.svg.png",
+      "channellink":"https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8"
+    },{
+      "name":"BloombergTVAsiaLiveEvent.us",
+      "country":"afghan",
+      "channelthumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/300px-Bloomberg_Television_logo.svg.png",
+      "channellink":"https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8"
+    },{
+      "name":"DWEnglish.de",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/A1xzjOI.png",
+      "channellink":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+    },{
+      "name":"DWEnglish.de",
+      "country":"afghan",
+      "channelthumb":"https://i.imgur.com/A1xzjOI.png",
+      "channellink":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+    }
+  ]
+}
